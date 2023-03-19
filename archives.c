@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-#include <fstream> //Biblioteca para mexer com arquivos
 
 void main(){
   int cont=0;
